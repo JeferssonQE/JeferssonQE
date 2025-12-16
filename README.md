@@ -23,7 +23,7 @@ I am a student in the field of Computer Science at the University of Engineering
 ![Your Stats](https://github-readme-stats.vercel.app/api?username=Manzanito20003&show_icons=true&theme=radical)
 
 ### 📂 Featured Projects
-- - [DólarBot - Automated ETL System](https://github.com/JeferssonQE/Notificacion-Eventos): Production-ready ETL pipeline that monitors exchange rates in Peru from **SUNAT API** and 15+ exchange houses. Features automated **web scraping**, arbitrage detection, and daily HTML reports via **Gmail**. Deployed with **GitHub Actions**, **Docker**, and **Supabase**. Improved my skills in ETL architecture, task automation, and cloud infrastructure.
+- [DólarBot - Automated ETL System](https://github.com/JeferssonQE/Notificacion-Eventos): Production-ready ETL pipeline that monitors exchange rates in Peru from **SUNAT API** and 15+ exchange houses. Features automated **web scraping**, arbitrage detection, and daily HTML reports via **Gmail**. Deployed with **GitHub Actions**, **Docker**, and **Supabase**. Improved my skills in ETL architecture, task automation, and cloud infrastructure.
 
 - [System with Scraper and SUNAT Integration](https://github.com/Manzanito20003/sistem_with_scraper_send_sunat):  
   Project focused on automating the process of sending invoices to **SUNAT** using **Selenium** and **Gemini AI API**. It improved my skills in web scraping, automation, and AI integration.
