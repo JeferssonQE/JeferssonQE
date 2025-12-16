@@ -5,7 +5,7 @@ I am a student in the field of Computer Science at the University of Engineering
 ### 🚀 About Me
 - 🌱 Currently learning: **Automation, APIs, Consumer APIs, AI, and Cloud Computing**.
 - 💬 about me: **I am interested in automation, integrating AI into applications, working with SQL and NoSQL databases, and leveraging AWS for cloud-based solutions. I also have experience working with systems that utilize the SUNAT API.**
-- 📫 How to reach me: **[jefersson.14qe@gmail.com](mailto:jefersson.14qe@gmail.com), [LinkedIn](https://www.linkedin.com/in/jefersson-kevin-quica%C3%B1a-erquinio-0b570b280/)**
+- 📫 How to reach me: **[jefersson.14qe@gmail.com](mailto:jefersson.quicana@utec.edu.pe), [LinkedIn](https://www.linkedin.com/in/jefersson-kevin-quica%C3%B1a-erquinio-0b570b280/)**
 - 🌍 Languages: **Spanish, English (B1 Level)**
 
 ### 🛠️ Technologies and Tools
