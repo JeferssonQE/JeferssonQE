@@ -20,7 +20,7 @@ I am a student in the field of Computer Science at the University of Engineering
 ![Automation](https://img.shields.io/badge/Automation-007ACC?style=flat&logo=azurepipelines&logoColor=white)
 
 ### 📈 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=Manzanito20003&show_icons=true&theme=radical)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=JeferssonQE&show_icons=true&theme=radical)
 
 ### 📂 Featured Projects
 - [DólarBot - Automated ETL System](https://github.com/JeferssonQE/Notificacion-Eventos): Production-ready ETL pipeline that monitors exchange rates in Peru from **SUNAT API** and 15+ exchange houses. Features automated **web scraping**, arbitrage detection, and daily HTML reports via **Gmail**. Deployed with **GitHub Actions**, **Docker**, and **Supabase**. Improved my skills in ETL architecture, task automation, and cloud infrastructure.
