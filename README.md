@@ -30,8 +30,6 @@ I am a student in the field of Computer Science at the University of Engineering
 
 - [Music Recommendation System](https://github.com/Manzanito20003/Recomendador_musica):  
   Music recommendation engine based on **acoustic similarity** using **MFCC feature extraction** and **K-Means clustering**. It provides recommendations based on cosine similarity and other distance metrics.
-- [ginai_async_in_Keypad](https://github.com/Manzanito20003/Chatgpt_async_in_Keypad.git):  
-  Project that integrates **OCR** for character recognition, word detection, and coordinate extraction. It also supports sending the processed data to **Gemini** for further analysis.
 
 - [Store Virtual](https://github.com/Manzanito20003/Fronted_final.git):  
   Web-based **online store** designed for product management, enabling functionalities such as product visualization, inventory control, and basic e-commerce features.
