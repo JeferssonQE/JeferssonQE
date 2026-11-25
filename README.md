@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jefersson Kevin Quicaña Erquinio
 
-I am a student in the field of Computer Science at the University of Engineering and Technology in Peru. Currently, I am in my 6th semester. I enjoy developing solutions and tackling problems using the latest technologies in the world, particularly in the areas of databases, automation, cloud computing, and artificial intelligence.
+I am a student in the field of Computer Science at the University of Engineering and Technology in Peru. Currently, I enjoy developing solutions and tackling problems using the latest technologies in the world, particularly in the areas of databases, automation, cloud computing, and artificial intelligence.
 
 ### 🚀 About Me
 - 🌱 Currently learning: **Automation, APIs, Consumer APIs, AI, and Cloud Computing**.
